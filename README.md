@@ -1,27 +1,116 @@
-<h1 align="center">Hi 👋, I'm Parbat Upadhaya</h1>
-<h3 align="center">A passionate learner from Nepal.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parbat01&label=Profile%20views&color=0e75b6&style=flat" alt="parbat01" /> </p>
+# Hi, I'm Parbat Upadhaya 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parbat01" alt="parbat01" /></a> </p>
+### Aspiring Data Scientist | Python Learner | Problem Solver
 
-- 🔭 I’m currently working on [Python](https://github.com/parbat01/learning_python/blob/main/Day-07-Tuple-set-dict.py/student-data-analyzer.py https://github.com/parbat01/learning_python/blob/main/Day-06-Function%20and%20list/Valid-gmail-checker.py)
-
-- 📫 How to reach me **parbatupadhaya2@gmail.com**
-
-- ⚡ Fun fact **I am a student who's trynna be coolest Data Scientist**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/parbatupadhaya2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parbatupadhaya2" height="30" width="40" /></a>
-<a href="https://instagram.com/aaditya._.upd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaditya._.upd" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/parbat01">
+    <img src="https://img.shields.io/badge/GitHub-parbat01-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/parbat-upadhaya-30987a427/">
+    <img src="https://img.shields.io/badge/LinkedIn-Parbat%20Upadhaya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parbat01&show_icons=true&locale=en&layout=compact" alt="parbat01" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parbat01&show_icons=true&locale=en" alt="parbat01" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parbat01&" alt="parbat01" /></p>
+I'm a student currently building my foundation in programming and data science.
+
+I'm learning Python step by step through hands-on projects, focusing on understanding the fundamentals rather than just memorizing syntax.
+
+My current goal is to grow into a **Data Scientist** by developing strong skills in programming, data analysis, statistics, and eventually machine learning.
+
+- 🐍 Currently learning **Python**
+- 📊 Interested in **Data Science & Data Analysis**
+- 🧠 Improving my problem-solving skills through projects
+- 🔨 Building projects as I learn
+- 🚀 Documenting my learning journey on GitHub
+
+---
+
+## 🛠️ Currently Learning
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+### 📚 Python Fundamentals
+
+- Variables & Data Types
+- Strings & String Methods
+- Conditional Statements
+- Loops
+- Functions
+- Recursion
+- Lists
+- Tuples
+- Dictionaries
+- Sets
+- Basic Data Processing
+
+---
+
+## 🚀 My Learning Journey
+
+I'm currently following a project-based Python learning journey.
+
+Each day I learn a new concept and build something with it.
+
+| Day | Focus |
+|-----|-------|
+| 🐍 Day 1–3 | Python fundamentals |
+| 🔧 Day 4–6 | Functions, loops & mini projects |
+| 📚 Day 7 | Tuples, Dictionaries & Sets |
+| 🔄 Day 8 | Recursion |
+| 🚀 Coming Soon | NumPy, Pandas & Data Analysis |
+
+> **Learning by building, one project at a time.**
+
+---
+
+## 📂 Featured Projects
+
+### 🐍 Python Learning Journey
+
+A collection of my Python exercises and projects as I progress from beginner concepts toward data science.
+
+**Focus:** Python fundamentals, problem solving, functions, data structures and algorithms.
+
+🔗 [View Repository](https://github.com/parbat01/learning_python)
+
+---
+
+## 🎯 My Goal
+
+My long-term goal is to become a **Data Scientist**.
+
+I'm currently focusing on building a strong programming foundation before moving into:
+
+**Python → NumPy → Pandas → Data Visualization → Statistics → Machine Learning → Data Science**
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=parbat01&show_icons=true&theme=default&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 👋
+
+**Currently learning. Currently building. Always improving.**
+
+</div>
