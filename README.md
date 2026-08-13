@@ -51,6 +51,7 @@ I'm learning Python through hands-on projects and documenting my progress along 
 | 4–6 | Functions, Loops & Projects |
 | 7 | Tuples, Dictionaries & Sets |
 | 8 | Recursion |
+| 9 | Error Handling |
 | Next | NumPy, Pandas & Data Analysis |
 
 ---
