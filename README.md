@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td bgcolor="#FFF8E7">
+<td bgcolor="#172554">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Parbat%20Upadhaya&fontSize=60&fontColor=ffffff" />
 </p>
@@ -39,6 +39,8 @@ I'm learning Python through hands-on projects and documenting my progress along 
 - Tuples
 - Dictionaries
 - Sets
+- Error Handling 
+- OS Module
 
 ---
 
