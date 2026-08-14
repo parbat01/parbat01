@@ -52,6 +52,7 @@ I'm learning Python through hands-on projects and documenting my progress along 
 | 7 | Tuples, Dictionaries & Sets |
 | 8 | Recursion |
 | 9 | Error Handling |
+| 10 | Os Module |
 | Next | NumPy, Pandas & Data Analysis |
 
 ---
