@@ -1,6 +1,9 @@
 <table>
 <tr>
 <td bgcolor="#FFF8E7">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=King%20Parbat&fontSize=60&fontColor=ffffff" />
+</p>
 
 # Hi, I'm Parbat Upadhaya 👋
 
