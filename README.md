@@ -1,46 +1,61 @@
 <table>
 <tr>
 <td bgcolor="#172554">
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Parbat%20Upadhaya&fontSize=60&fontColor=ffffff" />
 </p>
 
-### 🩵 Aspiring Data Scientist | Python Learner | Problem Solver
+<h3 align="center">🩵 Aspiring Data Scientist | Python | Data Analysis</h3>
 
-I'm currently building my foundation in Python and working toward my long-term goal of becoming a Data Scientist.
+<p align="center">
+Building my skills in Python, data analysis, and data science through hands-on projects.
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm learning Python through hands-on projects and documenting my progress along the way.
+I'm a Python learner focused on building a strong foundation in **Data Analysis and Data Science**.
 
-- 🐍 Currently learning Python
-- 📊 Interested in Data Science & Data Analysis
-- 🧠 Building problem-solving skills
-- 🔨 Learning through projects
-- 🚀 Working toward Data Science
+I believe in learning by building projects, experimenting with data, and documenting my progress along the way.
+
+* 🐍 Strongening my Python programming skills
+* 📊 Learning and practicing Data Analysis
+* 🔢 Working with NumPy and Pandas
+* 📈 Exploring data visualization and statistics
+* 🧠 Improving problem-solving and analytical thinking
+* 🚀 Working toward becoming a Data Scientist
 
 ---
 
-## 🛠️ Currently Learning
+## 🛠️ Tech Stack & Skills
 
-🐍 Python &nbsp;&nbsp; 🗃️ Git & GitHub &nbsp;&nbsp; 📊 Data Analysis
+### 🐍 Programming
 
-### Python
+* Python
+* Object-Oriented Programming — Learning
+* File Handling
+* Error Handling
+* Modules & Packages
+* Virtual Environments
 
-- Variables & Data Types
-- Strings
-- Conditions
-- Loops
-- Functions
-- Recursion
-- Lists
-- Tuples
-- Dictionaries
-- Sets
-- Error Handling 
-- OS Module
+### 📊 Data Analysis
+
+* NumPy
+* Pandas
+* Data Cleaning
+* Data Manipulation
+* Data Aggregation
+* Boolean Filtering
+* Statistical Analysis
+* Working with CSV & JSON data
+
+### 🗃️ Tools & Technologies
+
+* Git
+* GitHub
+* VS Code
 
 ---
 
@@ -48,21 +63,97 @@ I'm learning Python through hands-on projects and documenting my progress along 
 
 > **Learning by building, one project at a time.**
 
-| Day | What I Learned |
-|---|---|
-| 1–3 | Python Fundamentals |
-| 4–6 | Functions, Loops & Projects |
-| 7 | Tuples, Dictionaries & Sets |
-| 8 | Recursion |
-| 9 | Error Handling |
-| 10 | Os Module |
-| Next | NumPy, Pandas & Data Analysis |
+| Stage | What I Learned                 |
+| ----- | ------------------------------ |
+| 1     | Python Fundamentals            |
+| 2     | Conditions, Loops & Functions  |
+| 3     | Data Structures                |
+| 4     | Recursion & Error Handling     |
+| 5     | File Handling & Python Modules |
+| 6     | Git & GitHub                   |
+| 7     | NumPy                          |
+| 8     | Pandas                         |
+| 9     | Data Analysis Projects         |
+| 🔜    | Data Visualization             |
+| 🔜    | Statistics                     |
+| 🔜    | Machine Learning               |
+| 🎯    | Data Science                   |
 
 ---
 
-## 🎯 My Goal
+## 📂 Projects
 
-**Python → NumPy → Pandas → Data Visualization → Statistics → Machine Learning → Data Science**
+Some of the projects I've built while learning:
+
+### 🐍 Python
+
+* Student Management / Analysis Projects
+* Quiz Applications
+* Journal Application
+* Restaurant / Food Ordering System
+* Various Python Mini Projects
+
+### 🔢 NumPy
+
+* Student Performance Analyzer
+* Sales Data Analyzer
+* Employee Salary & Performance Analyzer
+
+### 📊 Pandas
+
+* Student Data Analysis
+* E-commerce Data Analysis
+* Bank Customer Analysis
+
+I'm continuously adding new projects as I learn.
+
+---
+
+## 🎯 My Roadmap
+
+```text
+Python
+   ↓
+NumPy + Pandas
+   ↓
+Data Analysis
+   ↓
+Data Visualization
+   ↓
+Statistics
+   ↓
+SQL
+   ↓
+Machine Learning
+   ↓
+Deep Learning
+   ↓
+Data Science
+```
+
+---
+
+## 📚 Currently Learning
+
+**NumPy → Pandas → Data Analysis → Data Visualization → Statistics**
+
+My next focus is developing stronger skills in **data visualization, statistics, SQL, and machine learning**.
+
+---
+
+## 📈 GitHub Philosophy
+
+> **Learn → Build → Analyze → Improve → Repeat**
+
+I use GitHub to document my learning journey, share projects, and track my progress toward becoming a Data Scientist.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with other developers, data enthusiasts, and people learning Data Science.
+
+**Thanks for visiting my profile! 🚀**
 
 </td>
 </tr>
